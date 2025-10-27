@@ -16,5 +16,18 @@ namespace Age_Calculator_in_C__27paz2025
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+
+            }
+            catch
+            {
+
+            }
+
+        }
     }
 }
